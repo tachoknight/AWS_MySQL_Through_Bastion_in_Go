@@ -1,5 +1,5 @@
 # AWS MySQL Through Bastion in Go
-Example Go program that connects to a MySQL AWS/RDS instance through a bastion AMI
+Example Go program that connects to a MySQL AWS/RDS instance through a bastion AMI.
 I needed to be able to run queries against a MySQL database that is hosted using Amazon's
 RDS system that is accessable only through a bastion machine acting as a firewall to the VPC.
 
